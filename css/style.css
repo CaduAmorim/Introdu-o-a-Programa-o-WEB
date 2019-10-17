@@ -124,14 +124,14 @@ h2 {
   padding: 20px;
 }
 footer{
-  background-color: #efefef;
+  background-color: #c92a2a;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
 }
 footer p, small{
-  color: #efefef;
+  color: #c92a2a;
   text-align: center;
 }
 
